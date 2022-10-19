@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myWebapp
 build_property.RootNamespace = myWebapp
-build_property.ProjectDir = C:\Repo\myWebapp\
+build_property.ProjectDir = c:\Repo\myWebapp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Repo\myWebapp
+build_property.MSBuildProjectDirectory = c:\Repo\myWebapp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Repo/myWebapp/Views/Home/Index.cshtml]
+[c:/Repo/myWebapp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repo/myWebapp/Views/Home/Privacy.cshtml]
+[c:/Repo/myWebapp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repo/myWebapp/Views/Shared/Error.cshtml]
+[c:/Repo/myWebapp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repo/myWebapp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Repo/myWebapp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repo/myWebapp/Views/_ViewImports.cshtml]
+[c:/Repo/myWebapp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repo/myWebapp/Views/_ViewStart.cshtml]
+[c:/Repo/myWebapp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Repo/myWebapp/Views/Shared/_Layout.cshtml]
+[c:/Repo/myWebapp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a289o3mssj
